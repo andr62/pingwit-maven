@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f045f8f-645b-43d7-ad10-7a6ec9e483e9" name="Changes" comment="Converting the project to mvn">
       <change afterPath="$PROJECT_DIR$/pingwit-json-parser/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pingwit-json-parser/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pingwit/maven/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658227388133</updated>
     </task>
+    <task id="LOCAL-00001" summary="Converting the project to mvn">
+      <created>1658577348878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658577348878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
