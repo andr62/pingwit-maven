@@ -1,4 +1,4 @@
-package pingwit.lec_3.hm.task_4;
+package pingwit.maven.lec_3.hm.task_4;
 
 public class MultiplicationTable {
     public static void main(String[] args) {

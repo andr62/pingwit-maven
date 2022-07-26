@@ -1,4 +1,4 @@
-package pingwit.lec_3.hm;
+package pingwit.maven.lec_3.hm;
 
 class FDemo {
     int x;
