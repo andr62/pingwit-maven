@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f045f8f-645b-43d7-ad10-7a6ec9e483e9" name="Changes" comment="Converting the project to mvn">
-      <change afterPath="$PROJECT_DIR$/pingwit-json-parser/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/Club.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/Club.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/FavouriteDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/FavouriteDrink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/club.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +51,11 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pingwit.maven.example" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.pingwit.maven.example.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pingwit.maven.example.App" />
