@@ -1,7 +1,8 @@
-package pingwit.lec_4.hm.task_3;
+package pingwit.maven.lec_4.hm.task_3;
 
-import pingwit.lec_4.hm.task_1.Student;
-import pingwit.lec_4.hm.task_1.StudentBuilder;
+import pingwit.maven.lec_4.hm.task_1.Student;
+import pingwit.maven.lec_4.hm.task_1.StudentBuilder;
+import pingwit.maven.lec_4.hm.task_1.Student;
 
 public class SimilarObjectsDetection {
     public static void main(String[] args) {

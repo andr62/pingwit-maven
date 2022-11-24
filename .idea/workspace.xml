@@ -5,11 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f045f8f-645b-43d7-ad10-7a6ec9e483e9" name="Changes" comment="Converting the project to mvn">
+      <change afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_18/hm/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_2/hm/task_1/MeRunning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_2/hm/task_1/task" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/Club.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/Club.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/FavouriteDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/FavouriteDrink.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/club.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/lapkavach.json" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/lapkavach.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/myClub.json" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/myClub.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/nlo.json" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/nlo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/tF.json" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/example/tF.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_1/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_1/Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_1/GenericMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_1/GenericMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2/CarConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2/CarConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2/CarMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2/CarType.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2/CarType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2a/Fruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2a/Fruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2a/FruitsFormatStragety.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2a/FruitsFormatStragety.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2a/FruitsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_2a/FruitsMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_3/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_3/CarList.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_3/CarList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_3/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_3/Garage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_3/Garages.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_3/Garages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_3a/GenericWarehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_10/hm/task_3a/GenericWarehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_1/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_1/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_1/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_1/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_1/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_1/Temp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_2/MaxLengthString.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_2/MaxLengthString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_3/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_3/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_3/phoneCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_13/hm/task_3/phoneCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_15/hm/task_1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_15/hm/task_1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_15/hm/task_1/myCustomXMLforHM.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_15/hm/task_1/myCustomXMLforHM.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_4/hm/task_1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_4/hm/task_1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_4/hm/task_1/StudentBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_4/hm/task_1/StudentBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_4/hm/task_1/StudentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_4/hm/task_1/StudentMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_4/hm/task_3/SimilarObjectsDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_4/hm/task_3/SimilarObjectsDetection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_5/hm/task_1/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_5/hm/task_1/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_5/hm/task_1/ComputerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_5/hm/task_1/ComputerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_5/hm/task_1/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_5/hm/task_1/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_7/hm/task_1/Separating.java" beforeDir="false" afterPath="$PROJECT_DIR$/pingwit-json-parser/src/main/java/pingwit/maven/lec_7/hm/task_1/Separating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +53,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -31,7 +65,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2C9uzkT8dDwwN7pGID6KZvPjJvr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,28 +75,76 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/pingwit-maven&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pingwit.maven.example" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\pingwit-maven\pingwit-json-parser" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\pingwit-maven\pingwit-json-parser\src\main\java\pingwit\maven\lec_15\hm\task_1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.pingwit.maven.example.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pingwit.maven.example.App" />
-      <module name="pingwit-maven" />
+  <component name="RunManager" selected="Application.MeRunning">
+    <configuration name="MeRunning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pingwit.maven.lec_2.hm.task_1.MeRunning" />
+      <module name="pingwit-json-parser" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pingwit.maven.example.*" />
+          <option name="PATTERN" value="pingwit.maven.lec_2.hm.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pingwit.maven.lec_3.hm.task_1.ScannerMain" />
+      <module name="pingwit-json-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pingwit.maven.lec_3.hm.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Separating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pingwit.lec_7.hm.task_1.Separating" />
+      <module name="pingwit-json-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pingwit.lec_7.hm.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="phoneCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pingwit.maven.lec_13.hm.task_3.phoneCollection" />
+      <module name="pingwit-json-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pingwit.maven.lec_13.hm.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,8 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MeRunning" />
+        <item itemvalue="Application.Separating" />
+        <item itemvalue="Application.phoneCollection" />
         <item itemvalue="Application.pingwit.maven.example.App" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.ScannerMain" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +183,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658227388133</updated>
+      <workItem from="1669016712809" duration="3293000" />
+      <workItem from="1669316051543" duration="1873000" />
     </task>
     <task id="LOCAL-00001" summary="Converting the project to mvn">
       <created>1658577348878</created>
@@ -109,8 +196,23 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Converting the project to mvn" />
     <option name="LAST_COMMIT_MESSAGE" value="Converting the project to mvn" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

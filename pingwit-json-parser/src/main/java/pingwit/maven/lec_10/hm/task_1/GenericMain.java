@@ -1,4 +1,4 @@
-package pingwit.lec_10.hm.task_1;
+package pingwit.maven.lec_10.hm.task_1;
 
 public class GenericMain {
     public static void main(String[] args) {

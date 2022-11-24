@@ -1,13 +1,1 @@
-{
-  "name": "Lapka",
-  "floor": 18,
-  "whiteList": [
-    "Vika",
-    "Vlad",
-    "LAPKAVACH"
-  ],
-  "favouriteDrink": {
-    "name": "water",
-    "DrinkStrength": 0
-  }
-}
+{"name":"Lapka","floor":18,"whiteList":["Vika","Vlad","LAPKAVACH"],"favouriteDrink":{"name":"water","DrinkStrength":0}}

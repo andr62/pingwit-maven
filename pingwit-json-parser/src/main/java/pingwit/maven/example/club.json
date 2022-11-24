@@ -1,13 +1,1 @@
-{
-  "name": "Belko",
-  "floor": 3,
-  "whiteList": [
-    "Tanya",
-    "Masha",
-    "Igor"
-  ],
-  "favouriteDrink": {
-    "name": "Sex on the beach",
-    "DrinkStrength": 35
-  }
-}
+{"name":"Belko","floor":3,"whiteList":["Tanya","Masha","Igor"],"favouriteDrink":{"name":"Sex on the beach","DrinkStrength":35}}

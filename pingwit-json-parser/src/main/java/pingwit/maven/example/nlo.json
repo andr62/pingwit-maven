@@ -1,9 +1,1 @@
-{
-  "name": "NLO",
-  "floor": 2,
-  "whiteList": [],
-  "favouriteDrink": {
-    "name": "B-52",
-    "DrinkStrength": 32
-  }
-}
+{"name":"NLO","floor":2,"whiteList":[],"favouriteDrink":{"name":"B-52","DrinkStrength":32}}

@@ -1,13 +1,1 @@
-{
-  "name": "MyNewClub",
-  "floor": -2,
-  "whiteList": [
-    "Jason",
-    "Nika",
-    "Lapka"
-  ],
-  "favouriteDrink": {
-    "name": "Rum",
-    "DrinkStrength": 42
-  }
-}
+{"name":"MyNewClub","floor":-2,"whiteList":["Jason","Nika","Lapka"],"favouriteDrink":{"name":"Rum","DrinkStrength":42}}

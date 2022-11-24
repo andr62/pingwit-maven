@@ -1,4 +1,4 @@
-package pingwit.lec_13.hm.task_1;
+package pingwit.maven.lec_13.hm.task_1;
 
 public class Temp {
 //    public class Filter {

@@ -1,4 +1,4 @@
-package pingwit.lec_4.hm.task_1;
+package pingwit.maven.lec_4.hm.task_1;
 
 public class StudentBuilder {
     private Integer age;

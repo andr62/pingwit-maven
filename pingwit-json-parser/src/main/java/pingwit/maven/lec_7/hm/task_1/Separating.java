@@ -1,4 +1,4 @@
-package pingwit.lec_7.hm.task_1;
+package pingwit.maven.lec_7.hm.task_1;
 
 public class Separating {
     public static void main(String[] args) {

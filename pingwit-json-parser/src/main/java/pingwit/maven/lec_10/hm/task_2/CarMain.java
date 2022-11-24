@@ -1,4 +1,4 @@
-package pingwit.lec_10.hm.task_2;
+package pingwit.maven.lec_10.hm.task_2;
 
 public class CarMain {
     public static void main(String[] args) {

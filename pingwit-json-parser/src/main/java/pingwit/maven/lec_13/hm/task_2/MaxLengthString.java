@@ -1,9 +1,10 @@
-package pingwit.lec_13.hm.task_2;
+package pingwit.maven.lec_13.hm.task_2;
 
 //    Task 2 (max, String::compareTo / Comparator.naturalOrder())
 //Есть коллекция строк, нужно найти строку с максимальной длинной.
 
-import pingwit.lec_13.hm.task_1.Planet;
+
+import pingwit.maven.lec_13.hm.task_1.Planet;
 
 import java.util.Comparator;
 import java.util.List;

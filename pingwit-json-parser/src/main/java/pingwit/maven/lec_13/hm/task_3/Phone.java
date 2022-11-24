@@ -1,4 +1,4 @@
-package pingwit.lec_13.hm.task_3;
+package pingwit.maven.lec_13.hm.task_3;
 
 public record Phone(String producer, String nomination, Integer price) {
     public Phone {

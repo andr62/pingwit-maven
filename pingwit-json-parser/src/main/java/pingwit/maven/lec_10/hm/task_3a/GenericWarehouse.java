@@ -1,4 +1,4 @@
-package pingwit.lec_10.hm.task_3a;
+package pingwit.maven.lec_10.hm.task_3a;
 
 public class GenericWarehouse<T> {
     private T[] carTypes;

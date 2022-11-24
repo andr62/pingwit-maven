@@ -1,4 +1,4 @@
-package pingwit.lec_10.hm.task_2a;
+package pingwit.maven.lec_10.hm.task_2a;
 
 public class FruitsMain {
     public static void main(String[] args) {

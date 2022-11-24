@@ -1,9 +1,1 @@
-{
-  "name": "LAPS",
-  "floor": 1212,
-  "whiteList": [],
-  "favouriteDrink": {
-    "name": "B-44",
-    "DrinkStrength": 28
-  }
-}
+{"name":"LAPS","floor":1212,"whiteList":[],"favouriteDrink":{"name":"B-44","DrinkStrength":28}}
